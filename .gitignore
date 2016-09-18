@@ -1,5 +1,5 @@
 logs/*
-app/bower_components
+app/bower_components/
 !.gitkeep
 node_modules/
 bower_components/
